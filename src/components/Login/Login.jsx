@@ -89,7 +89,7 @@ const Login = () => {
   };
 
   return (
-    <div className="min-h-screen mt-5 flex items-center justify-center bg-gradient-to-br from-cyan-900 via-cyan-950 to-black px-4">
+    <div className="min-h-screen py-20 mt-5 flex items-center justify-center bg-gradient-to-br from-cyan-900 via-cyan-950 to-black px-4">
       <div className="w-full max-w-sm">
         {/* Heading */}
         <div className="text-center mb-6">
