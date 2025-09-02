@@ -3,7 +3,7 @@ import customizeicon from "../../assets/customize.svg";
 import easyicon from "../../assets/easy.svg";
 import awesomeicon from "../../assets/awesome.svg";
 import anytimeicon from "../../assets/anytime.svg";
-import sideimage from "../../assets/hero/Imagetwo.jpg"
+import sideimage from "../../assets/hero/img2.jpg";
 import { useTheme } from "../ThemeProvider/ThemeProvider";
 
 const Features = () => {

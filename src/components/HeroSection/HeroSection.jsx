@@ -1,6 +1,6 @@
 import React from "react";
-import imgone from "../../assets/hero/imageone.jpg";
-import imgtwo from "../../assets/hero/imagetwo.jpg";
+import imgone from "../../assets/hero/img1.jpg"
+import imgtwo from "../../assets/hero/img2.jpg"
 import imageThree from "../../assets/hero/Img3.jpg"
 import { useTheme } from "../ThemeProvider/ThemeProvider";
 import { motion as Motion } from "framer-motion";
