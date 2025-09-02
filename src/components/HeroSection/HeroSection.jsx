@@ -1,7 +1,7 @@
 import React from "react";
 import imgone from "../../assets/hero/imageone.jpg";
 import imgtwo from "../../assets/hero/imagetwo.jpg";
-import imgthree from "../../assets/hero/imagethree.jpg";
+import imageThree from "../../assets/hero/Img3.jpg"
 import { useTheme } from "../ThemeProvider/ThemeProvider";
 import { motion as Motion } from "framer-motion";
 
@@ -97,7 +97,7 @@ const Hero = () => {
           />
           <div className="grid grid-rows-2 gap-3">
             <Motion.img
-              src={imgthree}
+              src={imageThree}
               alt="Hero Image 2"
               className="w-full h-40 sm:h-56 md:h-60 object-cover rounded-xl shadow-xl"
               variants={imageFade}
